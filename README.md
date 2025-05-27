@@ -7,4 +7,5 @@
 
     - Authors: Diego D. X. P. Rezende (PROFICAM), Mateus S. Costa (UFOP), Natanael S. Coutinho (ITV), Tatianna A. P. Beneteli (ITV), Roberto G. Ribeiro (UFOP), Frederico G. Guimarães (UFMG), and Luciano P. Cota (ITV)
 
+    - Instances: [Instances](./instances/)
   
